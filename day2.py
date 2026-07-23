@@ -1,4 +1,4 @@
-a = ("Enter the name: ")
+a = input("Enter the name: ")
 print("My name is",a)
 
 x = input("Enter the number: ")
